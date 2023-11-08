@@ -22,14 +22,14 @@ This issue centers on assessing the role of the Cycling Network in Hamburg in re
 * Data URL: https://www.hamburg.de/bvm/verkehrsstaerken-kfz
 * Data Type: html
 
-Short description of the DataSource.
+The data set includes traffic data from all locations in Hamburg where motor vehicle traffic (vehicle traffic) is recorded using infrared detectors 24 hours a day and all days of the year.
 
 ### Datasource1: Cycling network Hamburg
 * Metadata URL: https://metaver.de/trefferanzeige?docuuid=EA847D9F-6403-4B75-BCDB-73F831F960C7
 * Data URL: https://geodienste.hamburg.de/download?url=https://geodienste.hamburg.de/HH_WFS_Radverkehrsnetz&f=csv
 * Data Type: CSV
 
-Short description of the DataSource.
+The dataset contains the cycling facilities of the Free and Hanseatic City of Hamburg.
 
 ## Work Packages
 
